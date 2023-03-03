@@ -1,0 +1,71 @@
+                                @media (min-width: 768px) and (max-width: 1024px) {
+                                    .name {
+                                        display: none;
+                                    }
+                                    .container {
+                                        grid-template-rows: repeat(3, 0%);
+                                    }
+                                    h1 {
+                                        font-size: 26px;
+                                    }
+                                    p,
+                                    ul {
+                                        padding-left: 0rem;
+                                        font-size: 20px;
+                                        margin: 6px;
+                                        line-height: 1.8;
+                                    }
+                                    .target {
+                                        padding: 20px;
+                                    }
+                                    .personal-info {
+                                        padding: 20px;
+                                    }
+                                    .section-title {
+                                        padding-left: 10px;
+                                    }
+                                    section>.container {
+                                        padding: 0px 0px;
+                                    }
+                                    .container-item {
+                                        display: block;
+                                    }
+                                    .certificate-awards-content {
+                                        width: fit-content;
+                                    }
+                                    img.container2 {
+                                        width: 325px;
+                                    }
+                                    .certificate-awards-img {
+                                        width: fit-content;
+                                    }
+                                    .section-title3 {
+                                        padding-left: 0px;
+                                    }
+                                    .project-item {
+                                        width: fit-content;
+                                    }
+                                    .container3 {
+                                        padding: 0px 0px;
+                                    }
+                                    .project-item {
+                                        margin: 0px 0px;
+                                    }
+                                    .project-name {
+                                        padding: 0px;
+                                    }
+                                    .position {
+                                        padding-left: 80px;
+                                    }
+                                    .container4 {
+                                        width: fit-content;
+                                    }
+                                    #banner {
+                                        background-image: url(banner.jpg);
+                                        height: 500px;
+                                        background-position: center;
+                                        background-repeat: no-repeat;
+                                        background-size: cover;
+                                        position: relative;
+                                    }
+                                }

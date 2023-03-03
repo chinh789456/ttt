@@ -1,0 +1,16 @@
+* {
+    margin: 0px;
+}
+
+.bg-grey {
+    background: #f7f7f7;
+}
+
+section>.container {
+    width: 1170px;
+    margin: auto;
+}
+
+#nav-bar {
+    text-align: center;
+}
